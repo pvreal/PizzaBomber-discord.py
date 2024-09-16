@@ -58,5 +58,5 @@ This bot is for educational purposes only. Please do not pizzabomb anyone as tha
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
-```
+
 
