@@ -57,6 +57,6 @@ This bot is for educational purposes only. Please do not pizzabomb anyone as tha
 
 ## License
 
-[MIT License](https://opensource.org/licenses/MIT)
+[GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-
+For support or questions contact me on Discord @ 999.pv
