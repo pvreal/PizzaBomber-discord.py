@@ -13,7 +13,7 @@ TOKEN = 'token here'
 # For hosting this locally use the second option. For hosting this on something like replit use the first but do remember you have to have the env variable set-up.
 #TOMTOMKEY = os.environ.get('TOMTOMKEY')
 TOMTOMKEY = 'api key here'
-# If you want to restrict the bot to specific channel use this and make sure to unhash line 115,116,117
+# If you want to restrict the bot to specific channel use this and make sure to uncomment line 115,116,117
 # CHANNELID = 1234567890  
 
 intents = discord.Intents.default()
