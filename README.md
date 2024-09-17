@@ -1,5 +1,4 @@
 
-```markdown
 # Order pizza through discord!
 
 This Discord bot allows users to order pizza from Pizza Hut using a simple command. It uses the TomTom API for geocoding and finding and the Playwright library for automating the ordering process on the Pizza Hut website.
@@ -21,7 +20,7 @@ This Discord bot allows users to order pizza from Pizza Hut using a simple comma
 
 1. Clone this repository
 2. Install required packages:
-   
+   ```
    pip install -r requirements.txt
    ```
 3. Install Playwright browsers:
